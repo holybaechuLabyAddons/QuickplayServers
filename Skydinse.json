@@ -11,9 +11,11 @@
             "command": "/game duels"
         },
         "BlockParty": {
+            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/blockparty.png",
             "command": "/game blockparty"
         },
         "Murder": {
+            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/murdermystery.png",
             "command": "/game murdermystery"
         },
         "Maze": {
