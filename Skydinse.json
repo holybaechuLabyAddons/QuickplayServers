@@ -16,10 +16,6 @@
         },
         "Maze": {
             "command": "/game maze"
-        },
-        "SD/place": {
-            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/sdplace.png",
-            "command": "/nav sdplace"
         }
     }
 }
