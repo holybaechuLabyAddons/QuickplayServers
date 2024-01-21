@@ -1,5 +1,5 @@
 {
-    "ip": "hypixel.net",
+    "ip": ["hypixel.net"],
     "baseImageURL": "https://hypixel.net/styles/hypixel-uix/hypixel/game-icons/%s-64.png",
     "gamemodes": {
         "Murder Mystery": {
