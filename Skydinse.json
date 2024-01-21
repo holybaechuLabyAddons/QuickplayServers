@@ -1,32 +1,23 @@
 {
     "ip": ["skydinse.net", "skydinse.de"],
-    "baseImageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/skydinse.png?temp=%s",
+    "baseImageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/%s.png",
     "gamemodes": {
-        "MineAttack IV": {
-            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/skydinse.png",
-            "command": "/game mineattackiv"
-        },
         "LavaRises": {
-            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/lavarises.png",
             "command": "/game lavarises"
         },
         "Duels": {
-            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/duels.png",
             "command": "/game duels"
         },
         "BlockParty": {
-            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/blockparty.png",
             "command": "/game blockparty"
         },
         "Murder": {
-            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/murdermystery.png",
             "command": "/game murdermystery"
         },
         "Maze": {
-            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/maze.png",
             "command": "/game maze"
         },
-        "SD/Place": {
+        "SD/place": {
             "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/sdplace.png",
             "command": "/nav sdplace"
         }
