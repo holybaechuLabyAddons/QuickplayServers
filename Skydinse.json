@@ -22,6 +22,7 @@
             "command": "/game murdermystery"
         },
         "Maze": {
+            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/maze.png",
             "command": "/game maze"
         },
         "SD/Place": {
