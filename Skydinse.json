@@ -1,8 +1,9 @@
 {
     "ip": "skydinse.net",
-    "baseImageURL": "https://www.skydinse.net/storage/img/sd-logo-normal-zommed-out.png?temp=%s",
+    "baseImageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/skydinse.png?temp=%s",
     "gamemodes": {
         "MineAttack IV": {
+            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/skydinse.png",
             "command": "/game mineattackiv"
         },
         "LavaRises": {
