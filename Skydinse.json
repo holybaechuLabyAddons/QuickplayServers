@@ -1,5 +1,5 @@
 {
-    "ip": "skydinse.net",
+    "ip": ["skydinse.net", "skydinse.de"],
     "baseImageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/skydinse.png?temp=%s",
     "gamemodes": {
         "MineAttack IV": {
