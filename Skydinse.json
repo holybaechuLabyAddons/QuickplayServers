@@ -1,0 +1,27 @@
+{
+    "ip": "skydinse.net",
+    "baseImageURL": "https://www.skydinse.net/storage/img/sd-logo-normal-zommed-out.png?temp=%s",
+    "gamemodes": {
+        "LavaRises": {
+            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/lavarises.png",
+            "command": "/game lavarises"
+        },
+        "Duels": {
+            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/duels.png",
+            "command": "/game duels"
+        },
+        "BlockParty": {
+              "command": "/game blockparty"
+        },
+        "Murder": {
+            "command": "/game murdermystery"
+        },
+        "Maze": {
+            "command": "/game maze"
+        },
+        "SD/Place": {
+            "imageURL": "https://raw.githubusercontent.com/holybaechuLabyAddons/QuickplayServers/main/assets/Skydinse/sdplace.png",
+            "command": "/nav sdplace"
+        },
+    }
+}
