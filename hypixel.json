@@ -4,11 +4,7 @@
     "gamemodes": {
         "Lobby" : {
             "imageURL": "https://hypixel.net/styles/hypixel-v2/images/hypixel-512px.png",
-            "gamemodes": {
-                "Lobby": {
-                    "command": "/lobby"
-                }
-            }
+            "command": "/lobby"
         },
         "Bed Wars": {
             "gamemodes": {
@@ -221,11 +217,7 @@
             }
         },
         "SkyBlock": {
-            "gamemodes": {
-                "Standard": {
-                    "command": "/play sb"
-                }
-            }
+            "command": "/play sb"
         },
         "Arcade": {
             "gamemodes": {
@@ -368,11 +360,7 @@
         },
         "The Pit": {
             "imageURL": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Pit-64.png",
-            "gamemodes": {
-                "Standard": {
-                    "command": "/play pit"
-                }
-            }
+            "command": "/play pit"
         },
         "Classic Games": {
             "imageURL": "https://hypixel.net/styles/hypixel-uix/hypixel/game-icons/ClassicLobby-64.png",
@@ -523,35 +511,19 @@
         },
         "Tournament Hall": {
             "imageURL": "https://hypixel.net/styles/hypixel-v2/images/hypixel-512px.png",
-            "gamemodes": {
-                "Standard": {
-                    "command": "/lobby tournament"
-                }
-            }
+            "command": "/lobby tournament"
         },
         "SMP": {
             "imageURL": "https://hypixel.net/styles/hypixel-v2/images/hypixel-512px.png",
-            "gamemodes": {
-                "Standard": {
-                    "command": "/lobby smp"
-                }
-            }
+            "command": "/lobby smp"
         },
         "Housing": {
             "imageURL": "https://hypixel.net/styles/hypixel-v2/images/hypixel-512px.png",
-            "gamemodes": {
-                "Standard": {
-                    "command": "/lobby housing"
-                }
-            }
+            "command": "/lobby housing"
         },
         "Wool Wars": {
             "imageURL": "https://hypixel.net/styles/hypixel-v2/images/game-icons/WoolWars-64.png",
-            "gamemodes": {
-                "Standard": {
-                    "command": "/play wool_wool_wars_two_four"
-                }
-            }
+            "command": "/play wool_wool_wars_two_four"
         }
     }
 }
